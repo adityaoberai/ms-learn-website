@@ -1,2 +1,5 @@
-# Simple Website
-Simple Website built using the Microsoft Learn Module: [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
+# Submissions
+
+All contributions made during the DSC Amity Hacktoberfest 2020 activity shall be made here.
+
+For further details, please join our [Discord server](http://bit.ly/dsc-amity-discord)
